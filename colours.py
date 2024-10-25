@@ -12,7 +12,7 @@ Key Features:
 6. Save the colours and their frequencies in postgresql database
 """
 
-
+# Replace url with appropriate url
 url = "http://127.0.0.1:3000/interview.html"
 
 def main():
